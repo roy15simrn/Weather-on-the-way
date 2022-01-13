@@ -3,7 +3,7 @@
 
 This app accurately tells the temperatur, humidity and overall weather  of place you search for.
 This is the interface of:
-             ** WEATHER ON THE WAY**
+         <br>   <br> **WEATHER ON THE WAY**
 
 ![Screenshot 2022-01-13 230929](https://user-images.githubusercontent.com/62890747/149382256-3393996f-b2cb-4c40-857a-31e05866877c.jpg)
 
